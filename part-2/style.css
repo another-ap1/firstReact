@@ -1,0 +1,11 @@
+.tweet {
+    border: solid 5px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: lightblue;
+}
+.tweet h1 {
+    text-decoration: underline;
+
+}
